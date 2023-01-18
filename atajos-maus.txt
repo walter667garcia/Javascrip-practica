@@ -1,0 +1,9 @@
+Ctrl + B : cierra el panel de ficheros
+Ctrl + N : Nuevo fichero
+Ctrl + tab : navega entre los ficheros
+Ctrl + S: Guarda los cambios de un fichero
+Ctrl + P: navega entre los ficheros pero como una busqueda
+Ctrl + Shif + teclas de direccion: seleciuonan el contenido
+Alt + shif + flecha ariba y abajo:duplica un parafo o contenido
+Alt + flecah ariba y abajo: podemos mover un parafo
+Ctrl + f, Ctrl + h : busca una palabra y luego la remplaza
